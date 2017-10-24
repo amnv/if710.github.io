@@ -11,4 +11,5 @@ Usar o projeto de podcast, ou algum outro projeto, desde que o mesmo use pelo me
 Insira seu nome ou sua dupla abaixo, coloque no seguinte formato: 
 
 - Nome1 (login1), Nome2 (login2) -  [link para repositório do projeto](http://github.com/repositorio)
+- Allyson Manoel (amnv) - https://github.com/ajew/Ajuda-MEI.git
 
